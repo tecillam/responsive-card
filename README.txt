@@ -1,3 +1,22 @@
+# Responsive card
+This proyect has been developed following the provided design:
+https://www.figma.com/design/5GPcw8FWZfwEOBVzZyKZLB/Iskaypet---Front-mini-challenge?node-id=1-741&t=QNfU4TBiws9odatD-0
+
+Is implemented with JavaScript,jQuery, BEM, scss (compiled with sass) and Nunito font.
+
+## How to install
+
+Clone the repository:
+- git clone https://github.com/tecillam/responsive-card.git
+- move to proyect dir
+	cd responsive-card
+- run npm install
+- run npm start
+- open index.html
+
+## Functions
+Responsive card with break-point on 768px and a button that alternates color on click.
+
 Nunito Variable Font
 ====================
 
